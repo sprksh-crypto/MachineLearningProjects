@@ -1,6 +1,8 @@
 # MachineLearningProjects
 Proof of proficiency in machine learning concepts through various machine learning problems; leveraging python via TensorFlow, Features, Keras API Basics, Transfer Learning for Image Classification, Integrating Vision and Generative Models, etc.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Summary
 1. Classification Exercise: movement of the exchange rate between the US dollar and the Canadian dollar in the next hor based  on the previous hour's information for these securities.
 2. Prototyping and Transfer Learning Exercise: detection of bird, squirrel and chipmunk presence; inference of bird type (of 358 types) from still images through two vision architectures classifying still images.
