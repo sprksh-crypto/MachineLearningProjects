@@ -10,7 +10,7 @@ Proof of proficiency in machine learning concepts through various machine learni
 
 This repository will be branched into three sections, "classification", "transfer", and "generative", which are described as follows.
 
-1. Classification Exercise: movement of the exchange rate between the US dollar and the Canadian dollar in the next hor based  on the previous hour's information for these securities.
+1. Classification Exercise: movement of the exchange rate between the US dollar and the Canadian dollar in the next hour based on the previous hour's information for these securities. Note: the dataset and tf.records file used in this model can be retrieved on request, but are too large to attach here.
 
 2. Prototyping and Transfer Learning Exercise: detection of bird, squirrel and chipmunk presence; inference of bird type (of 358 types) from still images through two vision architectures classifying still images.
 
